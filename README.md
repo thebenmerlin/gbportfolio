@@ -24,7 +24,7 @@ I am a third-year Computer Science & Business Systems student at JSPM's Rajarshi
 - **Certifications:** 5+ from Yale, IBM, RIT
 
 ### 🏢 Professional Experience
-- **ARC** - Consultant (Current)
+- **ARC** - Consultant
 - **International Institute of SDGs** - Research Intern
 - **Marquee Equity** - Investment Banking Intern
 - **Finaure** - Finance Specialist
